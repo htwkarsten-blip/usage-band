@@ -1,0 +1,1 @@
+{ "name": "usage-band", "version": "0.1.0", "description": "Zeigt Sitzungslimit und wöchentliches Limit in Prozent in einem eigenen Fenster.", "author": { "name": "Karsten" }, "types": "./types/index.d.ts" }
